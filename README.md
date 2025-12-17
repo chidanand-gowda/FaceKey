@@ -25,7 +25,7 @@ FaceKey is a secure, Python-based facial recognition login system that allows us
 
 1.  **Clone the repository** (or download the ZIP):
     ```bash
-    git clone https://github.com/chidanandgowda/FaceKey.git
+    git clone https://github.com/chidanand-gowda/FaceKey.git
     cd FaceKey
     ```
 
